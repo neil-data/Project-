@@ -1,0 +1,6 @@
+{
+  "name": "Elementum Creative Agency",
+  "description": "A pixel-perfect, responsive React landing page for Elementum, a modern creative agency, featuring striking typography, interactive animations, and responsive layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
